@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://mazout-18869.nodechef.com/parse",
+      "appId": "5813064251",
+      "masterKey": "MasterChief",
+      "appName": "Mazout Backend"
+    }
+  ]
+}
